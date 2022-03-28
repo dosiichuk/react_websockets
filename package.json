@@ -1,0 +1,16 @@
+{
+  "name": "toDoList_react_websockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dmytro <dmytro.osiychuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "socket.io": "2.2.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
